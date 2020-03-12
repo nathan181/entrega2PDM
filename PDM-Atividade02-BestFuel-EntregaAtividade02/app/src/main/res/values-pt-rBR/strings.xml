@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BestFuel</string>
+    <string name="description_gasoline">Preço do litro da gasolina</string>
+    <string name="description_etanol">Preço do litro do etanol</string>
+    <string name="hint_best_option">Melhor usar...</string>
+    <string name="best_option_content_description">Sem opção</string>
+    <string name="gas_price">Preço</string>
+    <string name="ethanol_price">Preço</string>
+    <string name="definite_best_option">Sua opção</string>
+    <string name="best_option_gasoline">Gasolina</string>
+    <string name="best_option_ethanol">Etanol</string>
+    <string name="warning_best_option">Por favor, ponha os dois valores!</string>
+</resources>

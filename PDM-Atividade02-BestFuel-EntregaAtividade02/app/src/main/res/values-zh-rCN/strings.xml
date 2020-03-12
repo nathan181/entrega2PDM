@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BestFuel</string>
+    <string name="description_gasoline">" 汽油升价"</string>
+    <string name="description_etanol">" 乙醇升价格"</string>
+    <string name="hint_best_option">" 更好地使用..."</string>
+    <string name="best_option_content_description">"没有选择 "</string>
+    <string name="definite_best_option">您的选择</string>
+    <string name="best_option_gasoline">汽油</string>
+    <string name="best_option_ethanol">"乙醇 "</string>
+    <string name="warning_best_option">"请同时设置两个值！ "</string>
+    <string name="gas_price">价格</string>
+    <string name="ethanol_price">价格</string>
+</resources>
